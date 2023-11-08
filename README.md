@@ -1,1 +1,1 @@
-yandex practicum, first project
+https://github.com/yana-pavlova/ono-tebe-nado.git
